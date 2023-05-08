@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-pseudocode-for-the-program-that-calculates-the-current-balance
+<br>
+<p class="ui header product-top-header" title="pseudocode for the program that calculates the current balance Solution">What is pseudocode for the program that calculates the current balance in saving account?following thesethe starting balancethe total dollar amount of deposits madewthe total dollar amount of withdrwals madethe monthly interest rate
